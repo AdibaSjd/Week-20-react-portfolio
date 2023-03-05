@@ -1,0 +1,182 @@
+li.nav-item{
+color: rgb(48, 46, 46);;
+margin-left: 20px;
+}
+ul.nav.nav-tabs{
+    display: flex;
+    justify-content: end;
+    background-color: rgb(255, 255, 255);;
+    height: 10%;
+}
+
+.Page {
+    background-image: linear-gradient(to right,  rgb(228, 42, 25), rgb(36, 88, 153));
+    font-family: 'Source Code Pro', monospace;
+
+}
+
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+.logo{
+    display: flex;
+
+}
+
+.footer{
+margin-top: 12%;
+background-color:rgb(48, 46, 46);
+color: #ffffff;
+height: 20%;
+font-size: small;
+}
+
+.img{
+    margin-left: 10px;
+    position: relative;
+    left:16%;
+    margin-top: 30px;
+ }
+
+ 
+
+
+ 
+ion-icon {
+    font-size: 40px;
+  }
+  
+.icon{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: end;
+    width: 50%;
+    background-color: #ffffff;
+    margin-top: 15%;
+    border-radius: 0px 30px 0px;
+
+  }
+
+
+
+.email{
+display: flex;
+flex-direction: row;
+margin-top: 250px;
+margin-bottom: 400px;
+justify-content: center;
+}
+
+.name{
+border-radius: 20px;
+padding: 5px;
+margin-right: 10px;
+border-color: rgb(48, 46, 46);
+}
+
+.emailN{
+    border-radius: 20px;
+    padding: 5px;
+    margin-right: 10px;
+    border-color:rgb(48, 46, 46);
+    border-width: 2px;
+}
+
+.message{
+    border-radius: 20px;
+    padding: 5px;
+    margin-right: 10px;
+    border-color: rgb(48, 46, 46);
+    border-width: 2px;
+    height: 100px;
+}
+
+.text{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.send{
+    border-radius: 15px;
+    padding: 5px;
+    margin-right: 10px;
+    border-color: #ffffff;
+    border-style: solid ;
+    border-width: 2px;
+    height: 45px;
+    margin-top: 25px;
+    background-color: rgb(48, 46, 46);
+    color: aliceblue;
+}
+
+.bubble{
+    border-radius: 0px 50px 0px;
+    height: 300px;
+    width: 90%;
+
+
+
+}
+
+.App{
+    display: grid;
+        grid-template-columns: auto auto auto auto;
+        margin-top: 5%;
+        margin-left: 3%;
+}
+
+.project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 8%;
+}
+
+.active{
+color: aqua;
+}
+
+.CV{
+display: flex;
+justify-content: center;
+text-align: center;
+margin-bottom: 20px;
+border-color: rgb(48, 46, 46);
+border-style: solid ;
+border-width: 2px;
+margin-top: 25px;
+background-color: rgb(48, 46, 46);
+color: aliceblue;
+}
+
+.skills{
+
+display: flex;
+ flex-direction: row;
+ border-color: rgb(48, 46, 46);
+ border-style: solid ;
+ border-width: 2px;
+ margin-top: 25px;
+ background-color: rgb(48, 46, 46);
+ color: rgb(212, 218, 224);
+ margin-bottom: 50px;
+}
+
+.job{
+    flex-direction: row;
+    border-color: rgb(48, 46, 46);
+    border-style: solid ;
+    border-width: 2px;
+    margin-top: 25px;
+    background-color: rgb(48, 46, 46);
+    color: rgb(212, 218, 224);
+    margin-bottom: 50px;
+
+}
+
+.me{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
