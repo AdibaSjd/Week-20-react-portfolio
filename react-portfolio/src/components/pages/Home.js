@@ -9,7 +9,9 @@ export default function Home() {
       <div className='bubble'>
         <h1>Hey, I'm Adiba </h1>
         <p>
-          Welcome to my react Portfolio page
+          Welcome to my react Portfolio page.
+          I'm an aspiring Full-stack web-developer currently studying at the Univeristy Of Birmingham. This Page show cases work i have done and skills i have developed so far. Feel free to look aroud :)
+
 
         </p>
         <p>
