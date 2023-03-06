@@ -4,10 +4,10 @@ Application showcasing all work done so far using a lastest technology being rea
 
 ## User Story
 
-- As a developer I want a application that runs on react and when loaded a user is presented with a singele-page applications
+- As a developer I want a application that runs on react and when loaded a user is presented with a singele-page applications.
 
 - I WANT an employee portfolio deployed using React to sample my work 
-SO THAT an employeer can assess whether I am a good candidate for an open position
+SO THAT an employeer can assess whether I am a good candidate for an open position.
 
 
 ## Acceptance Criteria
