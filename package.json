@@ -1,6 +1,39 @@
 {
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://github.com/AdibaSjd/Week-20-react-portfolio",
   "dependencies": {
-    "@emailjs/browser": "^3.10.0",
-    "gh-pages": "^5.0.0"
+    "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^16.13.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.8.0",
+    "@testing-library/react": "^9.5.0"
   }
 }

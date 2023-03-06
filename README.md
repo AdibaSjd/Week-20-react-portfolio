@@ -44,7 +44,7 @@ SO THAT an employeer can assess whether I am a good candidate for an open positi
  
 
 ## General info
-This is a page developed through React show casing the latest technologies. This page shows work throughout the bootcamp with a range of projects, a cv and, nav links and a contact me section. 
+This is a page developed through React showcasing the latest technologies. This page shows work throughout the bootcamp with a range of projects, a cv and, nav links and a contact me section. 
 
 ## Page link
 https://adibasjd.github.io/Week-20-react-portfolio/
