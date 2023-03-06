@@ -57,6 +57,6 @@ User is presented with the home page
 User is presented with the contact me section
 ![](./images/React-2.png)
 User is presented with a cv 
-![](./images/React-3.png)
+![](./images/React-0.3.png)
 Usser is presented with a list of all previous projects
 ![](./images/React-4.png)
