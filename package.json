@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AdibaSjd/Week-20-react-portfolio",
+  "homepage": "https://adibasjd.github.io/Week-20-react-portfolio/",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "gh-pages": "^5.0.0",
