@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/AdibaSjd/Week-20-react-portfolio/static/css/main.53d6be4b.css",
-    "main.js": "/AdibaSjd/Week-20-react-portfolio/static/js/main.8c5c2ee6.js",
-    "static/media/Adiba.png": "/AdibaSjd/Week-20-react-portfolio/static/media/Adiba.2133f427dcfdebf504fd.png",
-    "index.html": "/AdibaSjd/Week-20-react-portfolio/index.html",
-    "main.53d6be4b.css.map": "/AdibaSjd/Week-20-react-portfolio/static/css/main.53d6be4b.css.map",
-    "main.8c5c2ee6.js.map": "/AdibaSjd/Week-20-react-portfolio/static/js/main.8c5c2ee6.js.map"
+    "main.css": "/Week-20-react-portfolio/static/css/main.362e0045.css",
+    "main.js": "/Week-20-react-portfolio/static/js/main.a2c855a6.js",
+    "static/media/Adiba.png": "/Week-20-react-portfolio/static/media/Adiba.2133f427dcfdebf504fd.png",
+    "static/media/CV-Adiba-Sajid.pdf": "/Week-20-react-portfolio/static/media/CV-Adiba-Sajid.2b71cbbe24ac9e161471.pdf",
+    "index.html": "/Week-20-react-portfolio/index.html",
+    "main.362e0045.css.map": "/Week-20-react-portfolio/static/css/main.362e0045.css.map",
+    "main.a2c855a6.js.map": "/Week-20-react-portfolio/static/js/main.a2c855a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.53d6be4b.css",
-    "static/js/main.8c5c2ee6.js"
+    "static/css/main.362e0045.css",
+    "static/js/main.a2c855a6.js"
   ]
 }
